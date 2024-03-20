@@ -8,7 +8,7 @@ The coding projects are as follows:
 |---------------------------|------------------------------|
 | Email Sender              | In this project, I used email.message, ssl, and smtplib to generate and send an email to a specified receiver using my gmail account. NOTE: this code is not completely functional, as I removed the password from the code for security reasons. There are a couple ways to include the password, I originally included mine in a separate file. |
 | Word Replacement Program  | This program takes a string and replaces a word in that string with another word of your choice. I used the built-in 'replace' method to do this quickly      |
-| Basic Calculator          | Brief description here       |
+| Basic Calculator          | In this project, I created a very simple calculator that has the user imput which operation they want to use as well as the 2 numbers they are operating with. The calculator comes up with an answer and continues running until user decides to exit.       |
 | Email Slicer              | Brief description here       |
 | Binary Search Algorithm   | Brief description here       |
 | Quiz Program              | Brief description here       |
