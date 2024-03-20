@@ -6,8 +6,8 @@ The coding projects are as follows:
 
 | Project                   | Description                  |
 |---------------------------|------------------------------|
-| Email Sender              | In this project, I used email.message, ssl, and smtplib to generate and send an email to a specified receiver using my gmail account.    |
-| Word Replacement Program  | Brief description here       |
+| Email Sender              | In this project, I used email.message, ssl, and smtplib to generate and send an email to a specified receiver using my gmail account. NOTE: this code is not completely functional, as I removed the password from the code for security reasons. There are a couple ways to include the password, I originally included mine in a separate file. |
+| Word Replacement Program  | This program takes a string and replaces a word in that string with another word of your choice. I used the built-in 'replace' method to do this quickly      |
 | Basic Calculator          | Brief description here       |
 | Email Slicer              | Brief description here       |
 | Binary Search Algorithm   | Brief description here       |
