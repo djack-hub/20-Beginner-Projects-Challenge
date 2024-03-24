@@ -3,12 +3,18 @@
 #Step 2: Slice out the user name using "@" symbol, the first part is the user name, the second part is the domain name
 #step 3: Slice out the domain name using "." symbol
 
-email = input("Enter Your Email Address: ").strip()
+def slicer():
+    email = input("Enter Your Email Address: ").strip()
 
-if email.count("@") == 1 and email.count(".") == 1:
-    (username, domain_name) = email.split("@")
-    (domain_name, tld) = domain_name.split(".")
+    if email.count("@") == 1 and email.count(".") == 1:
+        (username, domain_name) = email.split("@")
+        (domain_name, tld) = domain_name.split(".")
 
-    print(f"Your username is {username}. Your domain name is {domain_name}. Your top level domain is {tld}.")
-else:
-    print("Invalid Email Address")  
+        print(f"Your username is {username} \nYour domain name is {domain_name} \nYour top level domain is {tld}" + "/n")
+    elif email == "exit":
+        quit()
+    else:
+        print("Invalid Email Address")  
+
+while True:
+    slicer()
