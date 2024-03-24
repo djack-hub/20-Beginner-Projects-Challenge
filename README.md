@@ -12,7 +12,7 @@ The coding projects are as follows:
 | Email Slicer              | In this program, the user enters an email address as an input. From here, the program splits the username and from the domain and top-level domain, breaking the email address into 3 parts.      |
 | Binary Search Algorithm   | Brief description here       |
 | Quiz Program              | In this program, I created a dictionary that held a few quiz questions. The goal is to prompt the user for each question and upon answering, it will let them know if they were correct. After the questions were answered, a score is shown at the end.      |
-| QR Code Generator         | Brief description here       |
+| QR Code Generator         | This program simply generates a QR code from a given link.     |
 | Interest Payment Calculator | Brief description here      |
 | Random Password Generator | Brief description here       |
 | Dice Rolling Simulator    | Brief description here       |
