@@ -13,7 +13,7 @@ The coding projects are as follows:
 | Binary Search Algorithm   | Brief description here       |
 | Quiz Program              | In this program, I created a dictionary that held a few quiz questions. The goal is to prompt the user for each question and upon answering, it will let them know if they were correct. After the questions were answered, a score is shown at the end.      |
 | QR Code Generator         | This program simply generates a QR code from a given link that the user inputs     |
-| Interest Payment Calculator | Brief description here      |
+| Interest Payment Calculator | This program calculates a monthly payment amount when the user inputs the principal, apr, and years.    |
 | Random Password Generator | Brief description here       |
 | Dice Rolling Simulator    | Brief description here       |
 | Site Connectivity Checker | Brief description here       |
